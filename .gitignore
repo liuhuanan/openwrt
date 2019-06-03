@@ -27,3 +27,6 @@ TAGS*~
 git-src
 .project
 .cproject
+stdout.txt
+stderr.txt
+/backup
